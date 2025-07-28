@@ -7,7 +7,7 @@ This Arduino project is a **smart greenhouse system** that:
 - 💡 **Turns on LED lights when it gets dark**
 - ☀️ **Uses a solar panel to charge the battery**
 
-It's designed to help plants grow with minimal human input, making it perfect for small-scale gardening, school projects, or home automation.
+It's coded in **C++** and designed to help plants grow with minimal human input, making it perfect for small-scale gardening or home automation.
 
 ---
 
